@@ -24,7 +24,7 @@ I'm studying for 10 months, Flutter/Dart . I had my contact with programming at 
 
 
 I like to play games, skate, cook and program. :)
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 
 <div>
 <a href="https://github.com/bath0ry">
@@ -32,6 +32,8 @@ I like to play games, skate, cook and program. :)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bath0ry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+
+![Snake animation](https://github.com/bath0ry/bath0ry/blob/output/github-contribution-grid-snake.svg)
 
 
 Contact:
