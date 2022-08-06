@@ -21,7 +21,9 @@
 
 Hello everyone! Welcome to my Github profile.
 
-![image](https://user-images.githubusercontent.com/110061019/183263523-f1b50253-872b-4195-bd8d-d2aa52ef0753.png)
+
+![3odR](https://user-images.githubusercontent.com/110061019/183263681-b7caab1f-6e85-4c91-886d-aa2421fa80a4.gif)
+
 
 
 I'm currently learning flutter/dart.
@@ -53,7 +55,8 @@ gentopaulo@gmail.com
 https://www.linkedin.com/in/paulo-gomes-a8474b228/
 
 
-![image](https://user-images.githubusercontent.com/110061019/183263561-175223db-c1c2-40aa-8bee-09f583a0a985.png)
 
+
+![coding-anime](https://user-images.githubusercontent.com/110061019/183263662-e57be87b-bbf2-4a18-9a6c-9f55b8f3fe84.gif)
 
 
