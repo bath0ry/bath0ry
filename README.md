@@ -1,11 +1,13 @@
 ![Thank (1)](https://user-images.githubusercontent.com/110061019/183262417-ac8e7cf3-b401-4814-859f-80b6a345b1dc.gif)
 
 
-Ferramentas e tecnologia:
+# Tools and Technology:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="200" height="150"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="200" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="200" height="150"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="200" height="150"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" width="200" height="150"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="150" height="100"/> 
+          
            
           
           
@@ -15,7 +17,7 @@ Ferramentas e tecnologia:
 
           
           
-
+# Presentation
 
 Hello everyone! Welcome to my Github profile.
 
@@ -28,6 +30,12 @@ I'm studying for 10 months, Flutter/Dart . I had my contact with programming at 
 
 I like to play games, skate, cook and program. :)
 
+<div>
+<a href="https://github.com/bath0ry">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bath0ry&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bath0ry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div> 
+
 
 
 
@@ -35,7 +43,7 @@ I like to play games, skate, cook and program. :)
 ![Snake animation](https://github.com/bath0ry/bath0ry/blob/output/github-contribution-grid-snake.svg)
 
 
-Contact:
+# Contact:
 
 gentopaulo@gmail.com
  
