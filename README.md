@@ -54,6 +54,8 @@ I like to play games, skate, cook and program. :)
           
 Flutter/Dart.
 
+OOP.
+
 Stateful/Stateless.
 
 Lifecycle.
