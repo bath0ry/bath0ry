@@ -54,6 +54,8 @@ I like to play games, skate, cook and program. :)
           
 Flutter/Dart.
 
+Logic programming.
+
 OOP.
 
 Stateful/Stateless.
