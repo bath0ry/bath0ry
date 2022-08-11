@@ -1,13 +1,7 @@
 ![Thank (1)](https://user-images.githubusercontent.com/110061019/183262417-ac8e7cf3-b401-4814-859f-80b6a345b1dc.gif)
 
 
-# Tools and Technology:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="150" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="150" height="150"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="150" height="150"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" width="150" height="150"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="150" height="100"/> 
-          
            
           
           
@@ -47,6 +41,30 @@ I like to play games, skate, cook and program. :)
 
 
 ![Snake animation](https://github.com/bath0ry/bath0ry/blob/output/github-contribution-grid-snake.svg)
+
+# Tools and Technology:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="150" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="150" height="150"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="150" height="150"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" width="150" height="150"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="150" height="100"/> 
+          
+          
+ # Skills         
+          
+Flutter/Dart.
+
+Stateful/Stateless.
+
+Lifecycle.
+
+Widget Tree.
+
+Navigator.
+
+Asynchronous programming.
+
+Git.
 
 
 # Contact:
