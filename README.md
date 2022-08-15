@@ -58,8 +58,6 @@ Logic programming.
 
 OOP.
 
-Clean Code.
-
 Stateful/Stateless.
 
 Lifecycle.
