@@ -64,6 +64,8 @@ Lifecycle.
 
 Widget Tree.
 
+Custom Components.
+
 Navigator.
 
 Asynchronous programming.
