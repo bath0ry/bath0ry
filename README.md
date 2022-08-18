@@ -74,7 +74,7 @@ Asynchronous programming.
 
 Git.
 
-BloC/Cubit.
+BloC/Cubit
 
 
 
