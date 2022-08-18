@@ -62,7 +62,7 @@ Clean Code.
 
 Stateful/Stateless.
 
-Lifecycle.
+Lifecycle
 
 Widget Tree.
 
