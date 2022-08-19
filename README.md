@@ -42,7 +42,7 @@ I like to play games, skate, cook and program. :)
 
 ![Snake animation](https://github.com/bath0ry/bath0ry/blob/output/github-contribution-grid-snake.svg)
 
-# Tools and Technology:
+# Tools and Technology
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="150" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="150" height="150"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="150" height="150"/> 
