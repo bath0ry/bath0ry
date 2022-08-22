@@ -83,6 +83,7 @@ API Rest/Dio. (LOADING...)
 # Contact:
 
 gentopaulo@gmail.com
+           
 https://www.linkedin.com/in/paulo-gomes-a8474b228/
 
 ##
