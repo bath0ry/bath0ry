@@ -71,7 +71,7 @@ Navigator.
 
 Asynchronous programming.
 
-Git.
+Git
 
 BloC/Cubit.
 
