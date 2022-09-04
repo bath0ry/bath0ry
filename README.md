@@ -67,13 +67,11 @@ Widget Tree.
 
 Navigator.
 
-Asynchronous programming.
-
 Git.
 
 BloC/Cubit.
 
-API Rest/Dio. (LOADING...)
+API Rest/Dio. 
 
 
 
