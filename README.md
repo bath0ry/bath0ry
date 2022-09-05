@@ -73,6 +73,8 @@ BloC/Cubit.
 
 API Rest/Dio. 
 
+Responsive.
+
 
 
 # Contact:
