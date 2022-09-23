@@ -16,8 +16,6 @@
 Hello everyone! Welcome to my Github profile.
 
 
-![3odR](https://user-images.githubusercontent.com/110061019/183263681-b7caab1f-6e85-4c91-886d-aa2421fa80a4.gif)
-
 
 
 I'm currently learning flutter/dart.
