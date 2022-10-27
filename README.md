@@ -46,7 +46,7 @@ Gosto de jogar, andar de skate, cozinhar e programar. :)
 <div>
 <a href="https://github.com/bath0ry">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bath0ry&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bath0ry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bath0ry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> 
 
 
