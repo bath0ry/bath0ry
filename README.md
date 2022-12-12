@@ -73,7 +73,7 @@ OOP.
 
 Clean Code.
 
-Stateful/Stateless.
+Stateful/Stateless/Inherited Widget.
 
 Lifecycle.
 
