@@ -91,7 +91,7 @@ Responsive.
           
 Firebase/SQFlite. (basic)
            
-Custom themes e layout.
+Custom themes and layout.
 
 
 
