@@ -88,6 +88,12 @@ BloC/Cubit.
 API Rest/Dio. 
 
 Responsive.
+          
+Firebase/SQFlite. (basic)
+
+Data persistence.
+           
+Custom themes e layout.
 
 
 
