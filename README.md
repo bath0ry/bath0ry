@@ -20,28 +20,28 @@ Hello everyone! Welcome to my Github profile.
 
 I look for new opportunities.
 
-I've been studying Flutter/Dart for almost 1 year. I had my first contact with programming at age 13 in game development courses, but I didn't adapt. Years later, working in other areas, I started in Flutter because I wanted to start a career in programming and I found mobile to be the most accessible and I ended up really liking the area. In addition to being interested in technology since childhood.
+I've been studying Flutter/Dart and UX/UI Design. I had my first contact with programming at age 13 in game development courses.I started in Flutter because I found mobile to be the most accessible and I ended up really liking the area. In addition to being interested in technology since childhood.
 In high school I took an electronics course and had a basic contact with programming using the C++ language.
 
 
-My future study plans are to specialize in flutter to the fullest and learn UI/UX one day.
+My plans for the future are to specialize in Flutter and UI/UX to the fullest.
 
 
-I like to play games, skate, cook and program. :)
+
 
 
 
 
 Procuro novas oportunidades.
 
-Eu estudo Flutter/Dart há quase 1 ano. Tive meu primeiro contato com programação aos 13 anos em cursos de desenvolvimento de jogos, mas não me adaptei. Anos depois, trabalhando em outras áreas, entrei no Flutter porque queria iniciar uma carreira em programação e achei o mobile o mais acessível e acabei gostando muito da área. Além de se interessar por tecnologia desde a infância.
+Eu estudo Flutter/Dart e UX/UI Design. Tive meu primeiro contato com programação aos 13 anos em cursos de desenvolvimento de jogos. Anos depois, entrei no Flutter porque achei o mobile o mais acessível e acabei gostando muito da área. Além de se interessar por tecnologia desde a infância.
 No ensino médio fiz um curso de eletrônica e tive um contato básico com programação usando a linguagem C++.
 
 
-Meus planos futuros de estudo são me especializar em flutter ao máximo e aprender UI/UX um dia.
+Meus planos para o futuros são me especializar em Flutter e UI/UX ao máximo.
 
 
-Gosto de jogar, andar de skate, cozinhar e programar. :)
+
 
 <div>
 <a href="https://github.com/bath0ry">
