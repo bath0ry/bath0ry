@@ -63,7 +63,7 @@ Meus planos para o futuros são me especializar em Flutter e UI/UX ao máximo.
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="150" height="100"/> 
           
           
- # Skills         
+ # Hard Skills         
           
 Flutter/Dart. | Logic programming. | OOP. | Clean Code. | Stateful/Stateless/Inherited Widget. | Lifecycle. | Widget Tree. | Navigator. | Git. |
 State Management: Cubit. | API Rest: Dio. | Responsive. | Firebase.(basic) | Custom themes and layout. |
