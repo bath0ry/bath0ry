@@ -65,9 +65,9 @@ Meus planos para o futuros são me especializar em Flutter e UI/UX ao máximo.
           
  # Skills         
           
-Flutter/Dart.
+<Flutter/Dart.>
 
-Logic programming.
+<Logic programming.>
 
 OOP.
 
