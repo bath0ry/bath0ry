@@ -65,32 +65,8 @@ Meus planos para o futuros são me especializar em Flutter e UI/UX ao máximo.
           
  # Skills         
           
-Flutter/Dart. | Logic programming.
-
-OOP.
-
-Clean Code.
-
-Stateful/Stateless/Inherited Widget.
-
-Lifecycle.
-
-Widget Tree.
-
-Navigator.
-
-Git.
-
-BloC/Cubit.
-
-API Rest/Dio. 
-
-Responsive.
-          
-Firebase/SQFlite. (basic)
-           
-Custom themes and layout.
-
+Flutter/Dart. | Logic programming. | OOP. | Clean Code. | Stateful/Stateless/Inherited Widget. | Lifecycle. | Widget Tree. | Navigator. | Git. |
+State Management w/ Cubit. | API Rest w/ Dio. | Responsive. | Firebase.(basic) | Custom themes and layout. |
 
 
 # Contact:
