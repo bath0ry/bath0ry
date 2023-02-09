@@ -27,7 +27,7 @@ Meus planos para o futuros são me especializar em Flutter e UI/UX ao máximo.
 
 
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bath0ry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bath0ry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bath0ry&show_icons=true&theme=dracula)
 
