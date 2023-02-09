@@ -62,6 +62,6 @@ https://www.linkedin.com/in/paulo-gomes-a8474b228/
 
 
 
-![coding-anime](https://user-images.githubusercontent.com/110061019/183263662-e57be87b-bbf2-4a18-9a6c-9f55b8f3fe84.gif)
+
 
 
