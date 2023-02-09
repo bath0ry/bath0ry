@@ -54,6 +54,8 @@ State Management: Cubit. | API Rest: Dio. | Responsive. | Firebase.(basic) | Cus
 # Contact:
 
 gentopaulo@gmail.com
+     
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
            
 https://www.linkedin.com/in/paulo-gomes-a8474b228/
 
