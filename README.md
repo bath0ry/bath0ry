@@ -1,16 +1,4 @@
-![Thank (1)](https://user-images.githubusercontent.com/110061019/183262417-ac8e7cf3-b401-4814-859f-80b6a345b1dc.gif)
-
-
-
-           
-          
-          
-          
-            
-          
-
-          
-          
+     
 # Presentation
 
 Hello everyone! Welcome to my Github profile.
