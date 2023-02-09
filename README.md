@@ -15,12 +15,6 @@ In high school I took an electronics course and had a basic contact with program
 My plans for the future are to specialize in Flutter and UI/UX to the fullest.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bath0ry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bath0ry&show_icons=true&theme=dracula)
-<div>
-
-
 Procuro novas oportunidades.
 
 Eu estudo Flutter/Dart e UX/UI Design. Tive meu primeiro contato com programação aos 13 anos em cursos de desenvolvimento de jogos. Anos depois, entrei no Flutter porque achei o mobile o mais acessível e acabei gostando muito da área. Além de se interessar por tecnologia desde a infância.
@@ -33,7 +27,9 @@ Meus planos para o futuros são me especializar em Flutter e UI/UX ao máximo.
 
 
 <div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bath0ry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bath0ry&show_icons=true&theme=dracula)
 
 </div> 
 
