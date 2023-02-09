@@ -32,7 +32,7 @@ Meus planos para o futuros são me especializar em Flutter e UI/UX ao máximo.
 
 
 <div>
-<a href="https://github.com/bath0ry">
+
 
 </div> 
 
