@@ -53,11 +53,13 @@ State Management: Cubit. | API Rest: Dio. | Responsive. | Firebase.(basic) | Cus
 
 # Contact:
 
-gentopaulo@gmail.com
-     
-<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-           
-https://www.linkedin.com/in/paulo-gomes-a8474b228/
+<div>
+
+
+
+<a href = "mailto:plylegacy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulo-gomes-a8474b228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ##
 
