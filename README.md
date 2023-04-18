@@ -47,7 +47,7 @@ Meus planos para o futuros são me especializar em Flutter e UI/UX ao máximo.
  # Hard Skills         
           
 Flutter/Dart. | Logic programming. | OOP. | Clean Code. | Stateful/Stateless/Inherited Widget. | Lifecycle. | Widget Tree. | Navigator. | Git. |
-State Management: Provider. | API Rest: Dio. | Responsive. | Custom themes and layout. | Widget Tests/Unit Tests | 
+State Management: Provider. | API Rest: Dio. | Responsive. | Custom themes and layout. | Mockito. | 
 
 
 # Contact:
