@@ -4,25 +4,15 @@
 Hello everyone! Welcome to my Github profile.
 
 
+Procuro novas oportunidades.
+
+Apaixonado por jogos e tecnologia. Sou programador mobile Flutter e estudante de UX/UI Design e Design Gráfico. Tenho contato com tecnologia desde muito novo e sou apaixonado pela área.
+
 
 
 I look for new opportunities.
 
-I've been studying Flutter/Dart and UX/UI Design. I had my first contact with programming at age 13 in game development courses.I started in Flutter because I found mobile to be the most accessible and I ended up really liking the area. In addition to being interested in technology since childhood.
-In high school I took an electronics course and had a basic contact with programming using the C++ language.
-
-
-My plans for the future are to specialize in Flutter and UI/UX to the fullest.
-
-
-Procuro novas oportunidades.
-
-Eu estudo Flutter/Dart e UX/UI Design. Tive meu primeiro contato com programação aos 13 anos em cursos de desenvolvimento de jogos. Anos depois, entrei no Flutter porque achei o mobile o mais acessível e acabei gostando muito da área. Além de se interessar por tecnologia desde a infância.
-No ensino médio fiz um curso de eletrônica e tive um contato básico com programação usando a linguagem C++.
-
-
-Meus planos para o futuros são me especializar em Flutter e UI/UX ao máximo.
-
+Passionate about games and technology. I'm a Flutter mobile programmer and a student of UX/UI Design and Graphic Design. I have been in contact with technology since I was very young and I am passionate about the area.
 
 
 
