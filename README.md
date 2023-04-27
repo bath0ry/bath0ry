@@ -21,18 +21,7 @@ Passionate about games and technology. I'm a Flutter mobile programmer and a stu
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bath0ry&show_icons=true&theme=dracula)
 
 
-
-
-# Tools and Technology:
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="100" height="100"/></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="150" height="150"/></a> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="150" height="150"/></a> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="150" height="100"/></a>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" width="180"/>
-          
-            
-
-</div>       
+    
           
  # Hard Skills         
           
