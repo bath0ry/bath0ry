@@ -26,7 +26,7 @@ Passionate about games and technology. I'm a Flutter mobile programmer and a stu
  # Hard Skills         
           
 Flutter/Dart. | Logic programming. | OOP. | Clean Code. | Stateful/Stateless/Inherited Widget. | Lifecycle. | Widget Tree. | Navigator. | Git. |
-State Management: Provider. | API Rest: Dio. | Responsive. | Custom themes and layout. | Mockito. | Figma. | 
+State Management: Provider. | API Rest: Dio. | Responsive. | Custom themes and layout. | Mockito. | Figma. | MVC Pattern.
 
 
 # Contact:
