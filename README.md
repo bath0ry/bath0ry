@@ -4,15 +4,7 @@
 Hello everyone! Welcome to my Github profile.
 
 
-Procuro novas oportunidades.
 
-Apaixonado por jogos e tecnologia. Sou programador mobile Flutter e UX/UI Designer. Tenho contato com tecnologia desde muito novo e sou apaixonado pela área.
-
-
-
-I look for new opportunities.
-
-Passionate about games and technology. I'm a Flutter mobile programmer and a UX/UI Designer. I have been in contact with technology since I was very young and I am passionate about the area.
 
 
 
